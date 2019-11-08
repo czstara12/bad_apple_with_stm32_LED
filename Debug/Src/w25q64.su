@@ -1,0 +1,15 @@
+w25q64.c:19:4:SPI1_ReadWriteByte	32	static
+w25q64.c:47:4:W25QXX_ReadSR	24	static
+w25q64.c:72:6:W25QXX_Write_SR	24	static
+w25q64.c:97:6:W25QXX_Write_Enable	8	static
+w25q64.c:105:6:W25QXX_Write_Disable	8	static
+w25q64.c:120:5:W25QXX_ReadID	16	static
+w25q64.c:138:6:W25QXX_Read	40	static
+w25q64.c:162:6:W25QXX_Write_Page	32	static
+w25q64.c:188:6:W25QXX_Write_NoCheck	32	static
+w25q64.c:219:6:W25QXX_Write	40	static
+w25q64.c:271:6:W25QXX_Erase_Chip	8	static
+w25q64.c:283:6:W25QXX_Erase_Sector	16	static
+w25q64.c:303:6:W25QXX_Wait_Busy	8	static
+w25q64.c:309:6:W25QXX_PowerDown	8	static
+w25q64.c:318:6:W25QXX_WAKEUP	8	static
